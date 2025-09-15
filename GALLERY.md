@@ -13,6 +13,12 @@ If there is a commitment for a larger number of clothing items, I’m open to di
 
 Additionally, if the client’s needs are very clearly defined (example., *front and back photos + 360° shot*), I can explore creating automation tools, which could **reduce the cost per item**.  
 
+## Media Gallery  
+Below you can find a glimpse of the possibilities 
+
+**Notes:**  
+1. The resolution and quality of the shots can be improved. For this draft, I didn’t focus on upscaling or fine-tuning image quality.  
+2. The original input shots were not fully harmonized. Using photos taken in the **same environment, with consistent angles and lighting**, would greatly improve the overall coherence between outputs.  
 
 ### Input shots
 
