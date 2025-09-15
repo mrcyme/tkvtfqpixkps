@@ -14,6 +14,7 @@ If there is a commitment for a larger number of clothing items, I’m open to di
 Additionally, if the client’s needs are very clearly defined (example., *front and back photos + 360° shot*), I can explore creating automation tools, which could **reduce the cost per item**.  
 
 ## Media Gallery  
+
 Below you can find a glimpse of the possibilities 
 
 **Notes:**  
