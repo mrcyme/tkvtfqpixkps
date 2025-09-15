@@ -15,7 +15,7 @@ Additionally, if the client’s needs are very clearly defined (example., *front
 
 ## Media Gallery  
 
-Below you can find a glimpse of the possibilities 
+Below you can find some shot possibilities
 
 **Notes:**  
 1. The resolution and quality of the shots can be improved. For this draft, I didn’t focus on upscaling or fine-tuning image quality.  
