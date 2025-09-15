@@ -117,7 +117,7 @@ function main() {
 
 	const defaultInput = path.resolve(cwd, 'GALLERY.md');
 	const inputPath = inputArg ? path.resolve(cwd, inputArg) : defaultInput;
-	const outputPath = outputArg ? path.resolve(cwd, outputArg) : path.resolve(path.dirname(inputPath), 'gallery.html');
+	const outputPath = outputArg ? path.resolve(cwd, outputArg) : path.resolve(path.dirname(inputPath), 'index.html');
 
 	if (!fs.existsSync(inputPath)) {
 		console.error(`Input markdown not found: ${inputPath}`);
