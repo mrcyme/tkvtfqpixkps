@@ -26,13 +26,13 @@ Below you can find a glimpse of the possibilities
 <table>
   <tr>
     <td align="center">
-      <img src="img/_DSC4021.png" alt="_DSC4021" width="420" />
+      <img src="img/DSC4021.png" alt="_DSC4021" width="420" />
     </td>
     <td align="center">
-      <img src="img/_DSC4023.png" alt="_DSC4023" width="420" />
+      <img src="img/DSC4023.png" alt="_DSC4023" width="420" />
     </td>
     <td align="center">
-      <img src="img/_DSC4276 (3).png" alt="_DSC4276 (3)" width="420" />
+      <img src="img/DSC4276.png" alt="_DSC4276 (3)" width="420" />
     </td>
   </tr>
 </table>
@@ -41,10 +41,10 @@ Below you can find a glimpse of the possibilities
 <table>
   <tr>
     <td align="center">
-      <img src="img/_DSC4288 (2).png" alt="_DSC4288 (2)" width="420" />
+      <img src="img/DSC4288.png" alt="_DSC4288 (2)" width="420" />
     </td>
     <td align="center">
-      <img src="DSC3862.jpg" alt="DSC3862" width="420" />
+      <img src="img/DSC3862.jpg" alt="DSC3862" width="420" />
     </td>
     <td align="center">
       <img src="img/DSC3873.jpg" alt="DSC3873" width="420" />
